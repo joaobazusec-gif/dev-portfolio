@@ -33,7 +33,7 @@ export const About: React.FC = () => {
                 <CheckCircle2 className="w-4 h-4 text-emerald-500" /> CI/CD & Deploy Vercel
               </div>
               <div className="flex items-center gap-2 text-zinc-200 text-xs font-semibold">
-                <CheckCircle2 className="w-4 h-4 text-emerald-500" /> SEO & Web Vitals > 95
+                <CheckCircle2 className="w-4 h-4 text-emerald-500" /> SEO &amp; Web Vitals &gt; 95
               </div>
             </div>
           </div>
